@@ -13,7 +13,7 @@
 
 
 
-Projeto Fármacia Solidária -> Front-end que faz integração com o Back-End O usuário deve se cadastrar, para logar e ter acesso ao site, podendo fazer postagens dos seus produtos e incluir categorias sugeridas para futuros produtos.
+
 
 <br>
 

@@ -47,15 +47,4 @@ Projeto Fármacia Solidária -> Front-end que faz integração com o Back-End O 
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
 
-<br>
 
-# ✒️ Desenvolvedores
-<div>
-  <img height="100" width="100" src='https://farmaciasolidaria.netlify.app/static/media/Andrei.4c0c8e3e54a7586eb70fe6d2057bf5f2.svg'>
-  <img height="100" width="100" src='https://farmaciasolidaria.netlify.app/static/media/gabriel.3878d7f7f9c3c2ef9b9492e40b118a43.svg'>
-  <img height="100" width="100" src='https://farmaciasolidaria.netlify.app/static/media/leticia.035b09770c64b6eddafebee78ad2b098.svg'>
-  <img height="100" width="100" src='https://farmaciasolidaria.netlify.app/static/media/maikon.ce5202b0cb599260496f48c7e7a28969.svg'>
-  <img height="100" width="100" src='https://farmaciasolidaria.netlify.app/static/media/pamela.1a7408792abe5ac21e6e565414f0c189.svg'>
-  <img height="100" width="100" src='https://farmaciasolidaria.netlify.app/static/media/veronica.60ecd3560b4cdf3df12749a6a6ccbdb8.svg'>
-  <img height="100" width="100" src='https://farmaciasolidaria.netlify.app/static/media/wesley.596feb91d92931119df7220ec751bd95.svg'>
-</div>

@@ -9,6 +9,7 @@ import maikon from "../../img/equipe/maikon.svg";
 import pamela from "../../img/equipe/pamela.svg";
 import veronica from "../../img/equipe/veronica.svg";
 import wesley from "../../img/equipe/wesley.svg";
+import gustavo from "../../img/equipe/Gustavo.jpg";
 import { GitHub } from "@mui/icons-material";
 import { LinkedIn } from "@mui/icons-material";
 
@@ -39,7 +40,7 @@ function Equipe() {
           <Grid xs={8} style={{ justifyContent: "center", display: "flex", gap: '200px'}} className='margin-equipe'>
             <Box className="margin-foto">
               <Typography className='nome-integrante'>Andrei</Typography>
-              <Avatar alt="Andrei" src={andrei} className="tamanho-avatar" /> 
+              <Avatar alt="Andrei" src={gustavo} className="tamanho-avatar" /> 
               <Box style={{ display: "flex" }}>
                 <a href="https://github.com/andrei-nascimento" target="_blank">
                   <GitHub className='posicionamento-icon' style={{ fontSize: 30, color: "black" }} />

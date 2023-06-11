@@ -42,14 +42,14 @@ import WhatsAppIcon from '@material-ui/icons/WhatsApp';
           </Box>
           <Box display="flex" alignItems="center" justifyContent="center" className='gap-social'>
             <a
-              href="https://www.facebook.com/generationbrasil"
+              href="https://www.facebook.com"
               target="_blank"
               rel="noreferrer"
             >
               <FacebookIcon style={{ fontSize: 30, color: 'black' }} />
             </a>
             <a
-              href="https://www.instagram.com/generationbrasil/"
+              href="https://www.instagram.com"
               target="_blank" rel="noreferrer"
             >
               <InstagramIcon style={{ fontSize: 30, color: 'black' }} />
